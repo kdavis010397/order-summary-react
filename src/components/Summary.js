@@ -1,5 +1,4 @@
 import classes from "./Summary.module.css";
-import { Fragment } from "react";
 
 import heroPic from "../images/illustration-hero.svg";
 
