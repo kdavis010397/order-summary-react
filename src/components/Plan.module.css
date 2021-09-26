@@ -1,0 +1,21 @@
+.container {
+  background-color: var(--very-pale-blue);
+  display: flex;
+  justify-content: space-between;
+  padding: 1.5rem 1rem;
+  border-radius: 10px;
+}
+
+.container > button {
+  color: var(--bright-blue);
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.plan {
+  display: flex;
+}
+
+.plan > img {
+  margin-right: 1rem;
+}

@@ -1,0 +1,14 @@
+.card {
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  width: max-content;
+
+  box-shadow: 0 20px 30px var(--pale-blue);
+}
+
+@media screen and (max-width: 400px) {
+  .card {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
